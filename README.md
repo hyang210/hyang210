@@ -1,5 +1,4 @@
-# 👋 안녕하세요, 류채현입니다!
-
+# 류채현
 > **Computer Engineering Student** | Web · Frontend · AI
 
 ---
