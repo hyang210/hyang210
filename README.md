@@ -18,8 +18,8 @@
 ---
 
 ### 📌 Featured Projects
-- **OnePerDay**: Gemini API 기반 개인 맞춤형 영양제 추천 웹 (프론트엔드 담당) -> 개인 프로젝트로 더 개발 중
-- **YOLO 부정승차 감지**: YOLO 기반 부정승차 움직임 감지 프로그램 (전처리 및 화질 개선)
+- **OnePerDay**: Gemini API 기반 개인 맞춤형 영양제 추천 웹 (프론트엔드 담당) -> 개인 프로젝트로 추가 개발 중
+- **YOLO 부정승차 감지**: YOLO 기반 부정승차 움직임 감지 프로그램 (전처리 및 화질 개선)-> 개인 프로젝트로 추가 개발 중 
 - **고령자 치매 예방 웹**: JS 기반 실시간 상호작용 웹
-- **Flutter 웹툰 플랫폼**: Flutter 기반 가상 웹툰 애플리케이션
-- **Seculander - Android Calender App**: OpenSW 수업 프로젝트
+- **Flutter 웹툰 플랫폼**: Flutter 기반 가상 웹툰 애플리케이션 -> 개인 프로젝트로 추가 개발 중
+- **Seculander - Android Calender App**: OpenSW 수업 프로젝트 -> 개인 프로젝트로 추가 개발 중
