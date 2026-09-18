@@ -13,6 +13,7 @@
 - **Frontend**: JavaScript, React, HTML5, CSS3
 - **Mobile / AI**: Flutter, Python (YOLO)
 - **Tools**: Git, GitHub, VS Code
+- **Using AI Tool**: Claude, GPT
 
 ---
 
